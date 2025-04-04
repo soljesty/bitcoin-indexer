@@ -115,3 +115,6 @@ Please ensure that your code adheres to the established coding style and include
 ## License
 
 This project is licensed under the [GNU GPLv3](LICENSE). Feel free to use and modify the code according to the terms specified in the license.
+
+## Contact
+https://t.me/soljesty
